@@ -1,6 +1,6 @@
-# AOSP Keyboard Installer Magisk Module
+# custom Ringtones&Notifactons on OOS
 
-## Installs AOSP Keyboard and enable gesture typing, so far only on ARM64 devices.
+## Adds custom ringtones and notifications to /system/media/audio.
 v0.2
 Changelog:
 - Make use of magisk module installer

@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=custRing+NotOOS
+name=custom Ringtones&Notifactons OOS
+version=v0.2
+versionCode=v0.2
+author=diskoteer
+description=Adds custom ringtones and notifications to /system/media/audio.
